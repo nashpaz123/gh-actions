@@ -83,7 +83,6 @@ In this example:
 #### Exercise 1: Hello World Workflow
 Now, let’s walk through a hands-on exercise to create and run this basic workflow.
 
-```markdown
 # Exercise 1: Hello World Workflow
 
 In this exercise, you will create a basic GitHub Actions workflow that prints "Hello, World!".
@@ -172,7 +171,7 @@ In this example:
 #### Exercise 2: Running Tests on Push
 Let's walk through a hands-on exercise to create and run a workflow that runs tests on every push.
 
-```markdown
+
 # Exercise 2: Running Tests on Push
 
 In this exercise, you will create a workflow that runs tests every time code is pushed to the repository.
@@ -228,7 +227,7 @@ In this exercise, you will create a workflow that runs tests every time code is 
     - Go to your GitHub repository and click on the "Actions" tab.
     - You should see the "Run Tests" workflow running. Click on it to see the details.
     - Verify that the workflow ran successfully and executed the tests.
-```
+
 
 By the end of this part, you should have a solid understanding of how to create and run basic GitHub Actions workflows. These workflows automate tasks such as printing messages and running tests on your code, which are essential steps in any CI/CD pipeline.
-```
+
